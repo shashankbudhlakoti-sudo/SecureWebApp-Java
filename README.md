@@ -1,4 +1,4 @@
-# Secure Web Application-CODSOFT
+# Secure Web Application- Java
 
 ## Project 5: Building a Secure Web Application
 **Internship Project | Codec Technologies**
